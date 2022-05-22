@@ -35,3 +35,5 @@ function calculateYears(principal, interest, tax, desired) {
     }
     return years;
 }
+
+alert(calculateYears(1000, 0.05, 0.18, 1100))
