@@ -20,4 +20,4 @@ function getDivisorsCnt(n){
 		}
 	}
 	return result
-}JSON
+}
