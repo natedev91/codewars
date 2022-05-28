@@ -28,7 +28,10 @@ function getMiddle(s) {
 	}
 }
 
-alert(getMiddle("testing"))			// t
-alert(getMiddle("poop"))			// oo
-alert(getMiddle("bigoltitties"))    // i
-alert(getMiddle("testicles"))			//
+// Kata.getMiddle("test") should return "es"
+
+// Kata.getMiddle("testing") should return "t"
+
+// Kata.getMiddle("middle") should return "dd"
+
+// Kata.getMiddle("A") should return "A"
